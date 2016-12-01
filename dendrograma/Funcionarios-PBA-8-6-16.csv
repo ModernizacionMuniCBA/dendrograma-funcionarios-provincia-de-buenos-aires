@@ -1,0 +1,484 @@
+id,area,Cargo,Nombre,Telefono,Domicilio,depende_de,genero,cheuqeado con nómina 2016
+1,Gobernación,Gobernadora,Lic. María Eugenia VIDAL,0221 429-4006,Calle 6 e/ 51 y 53,0,F,x
+2,Coordinación General de la Unidad Gobernadora,Coordinadora General,Da. María Soledad BORSANI,0221 429-4006,Calle 6 e/ 51 y 53,1,M,x
+3,Vicegobernación,Vicegobernador,Dr. Daniel Marcelo SALVADOR,0221 429-1258,Calle 6 e/ 51 y 53,1,F,x
+4,Ministerio de Coordinación y Gestión Pública,Ministro,D. Roberto GIGANTE,0221 429-4006,Calle 6 e/ 51 y 53,1,F,x
+5,Subsecretaría de Capital Humano,Subsecretaria,Lic. Mariana ARRIBAS,0221 429-4296/4313,Calle 6 e/ 51 y 53,4,F,x
+6,Dirección Provincial del Sistema de Administración de RR HH,Directora Provincial,Da. Lorena MERLO,0221 423-6940,Calle 59 Nº 815 e/ 11 y 12,5,F,x
+7,Dirección Provincial de Personal,Director Provincial,Dr. Luis MONTUELLE,0221 429-6900,Calle 6 y 55,5,M,x
+8,Dirección Provincial de Condiciones y Servicios Laborales,Director Provincial,Dr. Hernán LIA,0221 429-2063,Calle 14 e/ 56 y 57,5,M,x
+9,Dirección Provincial de Políticas de Recursos Humanos,Directora Provincial,Lic. Noelia AMORIN,0221 429-4296,,5,F,x
+10,Subsecretaría de Innovación y Experiencia Ciudadana,Subsecretaria,Lic. Magdalena ACUÑA,0221 429-4085,Calle 6 e/ 51 y 53,34,F,x
+11,Subsecretaría de Modernización del Estado,Subsecretaria,Vacante,,,4,F,x
+12,Dirección Provincial de Telecomunicaciones,Director Provincial,Ing. Ignacio SPINETTA,0221 429-4151,,11,M,x
+13,Dirección Provincial de Innovación Ciudadana,Directora Provincial,Lic. Fiorella PORCILLE,0221 429-5500 Interno 85516,Torre II Calle 12 y 53 Piso 11,10,F,x
+14,Dirección Provincial de Servicios al Ciudadano,Director Provincial,Dr. Emiliano DE MARTINO,0221 429-5545/71,Torre II Calle 12 y 53 Piso 11,10,M,x
+15,Dirección Provincial de Fortalecimiento Institucional y Transparencia,Director Provincial,Dr. Luis FERELLA,0221 429-5643,Torre II Calle 12 y 53 Piso 11,126,M,x
+16,Instituto Provincial de la Administración Pública –IPAP-,Secretario Ejecutivo,D. Ariel RIZZO,0221 429-5593/5574,Torre II Calle 12 y 53 Piso 11,5,F,x
+17,Dirección Provincial de Gobierno Digital,Director Provincial,D. Marcelo Patricio FUNES,0221 429-4148/49,,10,M,ok pero no en el doc nomina 2016
+18,Dirección Provincial de Sistemas de Información y Tecnologías,Director Provincial,Vacante,,,12,M,x
+19,Subsecretaría de Gestión Pública,Subsecretario,Lic. Fernando Gustavo RIAVEC,0221 427-6110,Calle 6 e/ 45 y 46 N° 661 Piso 9,12,F,x
+20,Dirección Provincial de Evaluación y Seguimiento,Directora Provincial,Lic. Laura MUSRI,0221 422-8179,,19,F,x
+21,Dirección Provincial de Planificación Estratégica,Directora Provincial,Lic. Carolina GENTILE,0221 422-8182,,19,F,x
+22,Subsecretaría de Asuntos Metropolitanos e Interjurisdiccionales,Subsecretario,Ing. Luis César GIMENEZ,0221 489-1533,Calle 6 N° 661 e/ 45 y 46 Piso 8,12,F,x
+23,Dirección Provincial de Políticas Públicas Metropolitanas,Directora Provincial,Dra. Pilar BASILICI,0221 429-1533,,22,F,x
+24,Dirección Provincial de Gestión de Riesgos y Emergencias,Directora Provincial,Da. Virginia LAINO,0221 424-8976,Calle 4 esq. 45,22,F,x
+25,Dirección Provincial de Coordinación Interjurisdiccional,Director Provincial,Dr. Eduardo CANAVESSI,422-3662,,22,M,x
+26,Dirección Provincial de Islas,Director Provincial,D. Leonardo GOBBETTI,011 4731-3906/3250,Lavalle 733,22,M,x
+27,Subsecretaría de Coordinación Administrativa,Subsecretario,Ariel SALVADOR,0221 429-4033,Calle 6 N° 661 e/ 45 y 46 Piso 4,12,F,x
+28,Dirección Provincial de Gestión y Seguimiento Presupuestario,Director Provincial,D. Pedro ARAMBURU,0221 424-9042,Calle 4 y 45,22,M,x
+29,Dirección General de Administración,Directora General,Dra. Jimena FUSTER,0221 429-5233,Torre I Calle 12 e/ 50 y 51 Piso 11,22,F,x
+30,Organismo Provincial para el Desarrollo Sostenible (OPDS),Director Ejecutivo,Dr. Ricardo Eduardo PAGOLA,0221 429-5579,Torre II Calle 12 y 53 Piso 14/15,12,M,x
+31,"Coordinación Ejecutiva para el Desarrollo Sostenible, la Planificación Económica Ambiental y el Desarrollo de Energías Alternativas",Coordinador Ejecutivo,Vacante,0221 425-6543,Calle 7 e/ 54 y 55,30,M,x
+32,Coordinación Ejecutiva de Fiscalización Ambiental,Coordinador Ejecutivo,Lic. Juan José PALADINO,,Torre II Calle 12 y 53 Piso 15,30,M,x
+33,Coordinación Ejecutiva Administrativa,Coordinador Ejecutivo,Sin nombramiento,,Torre II Calle 12 y 53 Piso 14,30,M,x
+34,Ministerio de Gobierno,Ministro,Dr. Federico SALVAI,0221 429-4200/4002,Calle 6 e/ 51 y 53,1,F,x
+35,Jefatura de Gabinete de Asesores,Jefa de Gabinete,Noelia RUIZ,0221 429-4200/4002,,34,F,x
+36,Agencia Administradora Estadio Ciudad de La Plata,Responsable,D. Matías SEJEM,0221 429-1962,Calle 25 y 32,34,F,x
+37,Director de Protocolo,Director,Jorge DIAZ,0221 429-4067/4097,,34,M,x
+38,Subsecretaría de Reforma Política,Subsecretario,Lic. Manuel TERRADEZ,429-4028/4042,,34,F,x
+39,Dirección Provincial Electoral,Directora Provincial,Dra. Soledad LONGHI,0221 429-5783,Torre II Calle 12 y 53,38,F,x
+40,Dirección Provincial de Reforma Política,Directora Provincial,Lic. Mercedes JOURY,0221 429-4124,,38,F,x
+41,Dirección Provincial de Informatización y Estadística Electoral,Director Provincial,Lic. Adrián QUEVEDO,,,38,M,x
+42,Dirección Provincial de Escuelas de Gobierno,Director Provincial,Lic. Damián DEGLAUVE,0221 482-4076,Calle 5 N° 1280 e/ 58 y 59,38,M,x
+43,Subsecretaría de Coordinación Gubernamental,Subsecretario,Lic. Juan Pablo BECERRA,0221 429-4108/4063,,1,F,x
+44,Dirección Provincial de Política y Seguridad Vial,Director Provincial,Dr. Pablo FAPPIANO,0221 429-4279/4083,Calle 6 N° 928,38,M,x
+45,Dirección Provincial de Gestión y Recupero de Créditos Fiscales,Director Provincial,Dr. Martín ZEBALLOS AYERZA,0221 483-3743,Calle 13 N° 688 e/ 45 y 46,38,M,x
+46,Dirección Provincial del Registro de las Personas,Directora Provincial,Dra. Romina RODRIGUEZ,0221 429-6220,Avenida 1 y 60,38,F,x
+47,Dirección Provincial de Impresiones del Estado y Boletín Oficial,Director Provincial,Lic. Claudio PRIEU,0221 423-8320,Calle 3 y 523,38,M,x
+48,Subsecretaría de Asuntos Municipales,Subsecretario,Lic. Alex CAMPBELL,0221 429-4065/4292,,1,F,x
+49,Dirección Provincial de Enlace Parlamentario y Relaciones Parlamentarias,Director Provincial,Marcelo Alberto PACE,,,48,M,x
+50,Dirección Provincial de Programación y Gestión Municipal,Directora Provincial,Gabriela BESANA,0221 429-5244,Torre I Calle 12 e/ 50 y 51,48,F,x
+51,Dirección Provincial de Asuntos de Gobierno,Director Provincial,Lic. Mario HELFENSTEIN,0221 429-5259,,48,M,x
+52,Dirección Provincial de Ordenamiento Urbano y Territorial,Directora Provincial,Agr. Ana FEHRMANN,0221 429-5259,Torre I Calle 12 e/ 50 y 51 Piso 16,48,F,x
+53,Dirección Provincial de Subsidios y Subvenciones,Director Provincial,D. Juan CARRARA,0221 429-4276,,48,M,x
+54,"Dirección Provincial de Política Demográfica, Migración e Inmigración",Director Provincial,Lic. Owen FERNANDEZ FARQUHARSON,0221 429-4156,,48,M,x
+55,Dirección Provincial de Consorcios de Gestión y Desarrollo,Director Provincial,Dr. Carlos CAPARE,0221 429-5334,Torre I Calle 12 e/ 50 y 51 Piso 16,48,M,x
+56,Subsecretaría Administrativa,Subsecretario,Dr. José María GRIPPO,0221 429-4135,,1,F,x
+57,Dirección General de Administración,Director Provincial,Dr. Nehuen MARTIGANI CRESPILLO,0221 429-4259,,57,M,x
+58,Subsecretaría de Casa de la Provincia,Subsecretaria,Lic. Eleonora NOBILE,011 5300-9534/35,Avenida Callao 237,1,F,x
+59,Dirección Provincial de Planificación y Programación,Directora Provincial,Lic. Juana TORANZOS TORINO,011 5300-9516,,59,F,x
+60,Instituto Provincial de Lotería y Casinos,Presidente,D. Melitón Eugenio LOPEZ,0221 412-1190,Calle 46 N° 581 e / 6 y 7 Piso 1,34,F,x
+61,Instituto Provincial de Lotería y Casinos,Vicepresidente,D. Jorge Norberto RODRIGUEZ,0221 412-1137,Calle 46 N° 581 e / 6 y 7,34,F,x
+62,Dirección Provincial de Juegos y Explotación,Director Provincial,Dr. Carlos GALVEZ ZYNWALA,0221 412-1112,Calle 46 N° 581 e / 6 y 7,60,M,x
+63,Dirección Provincial de Administración y Finanzas,Director Provincial,Lic. Guillermo Diego GALLI,0221 412-1118,Calle 46 N° 581 e / 6 y 7,60,M,x
+64,Dirección Provincial de Hipódromos y Casinos,Director Provincial,Dr. Cristian Hugo TIEDEMANN,0221 412-1114,Calle 46 N° 581 e / 6 y 7,60,M,x
+65,Dirección Provincial de Auditoría y Control de Gestión,Director Provincial,Dr. Juan Ignacio ROMANO,0221 412-1188,Calle 46 N° 581 e / 6 y 7,60,M,x
+66,Ministerio de Economía,Ministro,Lic. Hernán LACUNZA,0221 429-4501/2,Calle 8 e/ 45 y 46,1,F,x
+67,Tribunal Fiscal de Apelación,Presidenta,C.P.N. Silvia Ester HARDOY,0221 421-8362,Calle 9 Nº 687/689 e/45 y 46 (Sala I),66,F,x
+68,Dirección Provincial de Asuntos Jurídicos,Director Provincial,Dr. Hugo MEDINA,0221 429-4798,Calle 8 e/ 45 y 46,66,M,x
+69,Director General de Administración,Director General,C.P.N. Juan Manuel BOSELLI,0221 429-4589/4435,,66,M,x
+70,Unidad de Comunicación Institucional,Responsable,Mauro BECERRA,,,66,F,x
+71,Subsecretaría de Hacienda,Subsecretario,Lic. Juan Luis SANGUINETTI,0221 429-4706/4479,Calle 8 e/ 45 y 46 Piso 2,66,F,x
+72,Dirección Provincial de Presupuesto Público,Director Provincial,C.P.N. Julio GONZALEZ,0221 429-4544,Calle 8 e/ 45 y 46 Piso 3,71,M,x
+73,Dirección Provincial de Política Tributaria,Director Provincial,Lic. Roberto BUFFONE,0221 429-4440,Calle 45 y 8 Piso 3 - Oficina 307/308 Corredor E Celeste,71,M,x
+74,Subsecretaría de Coordinación Económica,Subsecretario,Lic. Damián Pablo BONARI,0221 429-4487/88,Calle 8 e/ 45 y 46 Piso 2 - Oficina 56,66,F,x
+75,Dirección Provincial de Estadísticas,Director Provincial,Act. Matías BELLIARD,0221 429-5691,Torre II Calle 12 y 53 Piso 10,75,M,x
+76,Dirección Provincial de Coordinación Municipal y Programas de Desarrollo,Director Provincial,Mariano CHAMORRO,0221 429-4514/4414,Calle 46 e/ 7 y 8 Piso 2 - Oficina 238,75,M,x
+77,Dirección Provincial de Economía Laboral del Sector Público,Directora Provincial,Lic. Gisela SWAELS,0221 429-4739,,75,F,x
+78,Dirección Provincial de Estudios Económicos,Directora Provincial,Lic. María José SUAREZ VILLABONA,0221 429-4407,Calle 45 e/ 7 y 8 Piso 1 – Oficina 138,75,F,x
+79,Dirección Provincial de Registro de la Propiedad,Directora Provincial,Dra. María de la Paz DESSY,0221 429-2594,Calle 44 e/ 4 y 5 Nº 477 Piso 1,75,F,x
+80,Subsecretaría de Finanzas,Subsecretario,Lic. Sebastián KATZ,0221 429-4489/4560,Calle 8 e/ 45 y 46 Piso 2 - Oficina 205,66,F,x
+81,Dirección Provincial de Organismos Multilaterales y Financiamiento Bilateral,Director Provincial,Vacante,0221 429-4731,,80,M,x
+82,Dirección Provincial de Deuda y Crédito Público,Director Provincial,Lic. Mariano MOSCHIONE,0221 429-4505,Calle 8 e/ 45 y 46 Planta Baja - Oficina 13,80,M,x
+83,Subsecretaría de Inversión Pública,Subsecretario,D. Juan GOBBI,,Calle 8 e/ 45 y 46,66,F,x
+84,Banco de la Provincia de Buenos Aires,Presidente,Dr. Juan Ernesto CURUCHET,0221 4347-0281/8375,San Martín 137 Piso 2,66,F,x
+85,Banco de la Provincia de Buenos Aires,Vicepresidente,Dr. Carlos PEREZ,0221 4331-5111,,66,F,x
+86,Casa Matriz La Plata,Gerente de Casa Matriz,D. Marcelo Andres GARCIA,0221 429-0155,Calle 7 Nº 726,84,F,x
+87,Fundación Banco Provincia,Presidenta,Da. María FIGUERAS BIELSA,011 4331-2079,Bernardo de Irigoyen 330 Piso 1,84,F,x
+88,Grupo BAPRO,Presidente,D. Jorge MACRI,011 5167-6031/32,San Martín 108 Piso 18,84,F,x
+89,Grupo BAPRO,VicePresidente Ejecutivo,C.P.N. Guillermo ROMERO,011 4347-0103,San Martín 108 Pisos 20,84,F,x
+90,BA Desarrollo S.A.,Presidenta,Lic. María Aleandra SCAFATI,011 5431-1355/56,Corrientes 222 Piso 17,88,F,x
+91,Fideicomiso de Recuperación Crediticia (Ley 12.726),Presidente,Dr. Raúl José PAOLASSO,011 5217-1720,Bartolomé Mitre 430 Piso 4,84,F,x
+92,Agencia de Recaudación de la Provincia de Buenos Aires (ARBA),Director Ejecutivo,C.P.N. Gastón FOSSATI,0221 429-4482/4432,Calle 45 e/ 7 y 8 Piso 1 - Oficina 147,66,M,x
+93,Subdirección Ejecutiva de Recaudación y Catastro,Subdirector Ejecutivo,D. Walter David D´ANGELA,0221 429-4493,Calle 45 e/ 7 y 8,92,F,x
+94,Subdirección Ejecutiva de Planificación y Coordinación,Subdirector Ejecutivo,Sin nombramiento,,Calle 45 e/ 7 y 8,92,F,x
+95,Subdirección Ejecutiva de Fiscalización y Servicios al Contribuyente,Subdirector Ejecutivo,D. Juan Sebastian EDER,0221 429-4444,Calle 45 e/ 7 y 8,92,F,x
+96,Ministerio de Seguridad,Ministro,D. Cristian RITONDO,0221 429-3033,Calle 2 e/ 51 y 53,1,F,x
+97,Jefatura de Unidad Ministro,Jefe de Unidad Ministro,Dr. Vicente VENTURA BARREIRO,0221 429-3199/3109,,96,F,x
+98,Dirección de Ceremonial,Directora,Da. Valeria FERNANDEZ,0221 429-3033,,96,F,x
+99,Jefatura de Gabinete,Jefe de Gabinete,Dr. Marcelo Hugo ROCCHETTI,0221 429-3033,,96,F,x
+100,Auditoría General de Asuntos Internos,Auditor General,Dr. Guillermo Cristian BERRA,0221 489-8632 Int. 73494/483/493,Calle 51 N° 779 e/ 10 y 11,96,M,x
+101,Dirección General de Administración,Director General,C.P.N. Luis TORRES,0221 429-3494/3065,Calle 2 e/ 51 y 53,96,M,x
+102,Dirección General de Servicios y Operaciones Aéreas,Director General,Crio. My. Alejandro MARCON,0221 429-3061 Int. 74087,,96,M,x
+103,"Subsecretaría de Legal, Técnica y Administrativa",Subsecretario,Dr. Ignacio Gustavo GRECO,"0221 429-3109/99 Int. 74157, 74188",,96,F,x
+104,Dirección General de Capital Humano,Directora General,Da. Claudia SANTOS,0221 429-3109/99 Int. 74177,,103,F,x
+105,Dirección General Legal y Técnica,Directora General,Dra. Angeles QUIROGA,0221 429-3250 Int. 73761,,103,F,x
+106,Subsecretaría de Coordinación y Logística Operativa,Subsecretario,D. Ignacio PARERA,0221 429-3430 Int. 73441,Calle 2 e/ 51 y 53 Piso 3,96,F,x
+107,Dirección Provincial de Logística Operativa,Director Provincial,D. Alberto CUNSOLO,0221 429-3430 Int. 73507/ 73435,,106,M,x
+108,Dirección Provincial de Suministros,Director Provincial,D. Andrés GARCIA ITURRALDE,0221 429-3430 Int. 74540,Calle 1 Nº 1324 e/ 59 y 60,106,M,x
+109,Dirección General de Recursos Informáticos y Comunicaciones,Director General,D. Gabriel PRETTI,0221 429-3422 Int. 73422/73323,,106,M,x
+110,Director Provincial de la Central de Atención Telefónica de Emergencias (911),Director Provincial,D. Marcelo DELGADO,0221 429-3422 Int. 75137,Calle 8 Nº 726 e/ 46 y 47,106,M,x
+111,Superintendencia General de Policía,Superintendente,Crio. Gral. Pablo Alberto BRESSI,0221 429-3097 Int. 73097/17,2do. Piso entre patios,96,F,x
+112,Secretaría General de Policía,Secretario General,Crio. Gral. Jorge Omar FIGINI,0221 429-3252,,96,F,x
+113,Caja de Retiros Jubilaciones y Pensiones de la Policía,Presidente,Crio. Insp. (RA) Dr. Juan Eduardo CANIGGIA,0221 422-4156,Calle 48 Nº 502,96,F,
+114,Subsecretaría de Planificación,Subsecretario,Dr. Vicente VENTURA BARREIRO,0221 429-3107,Calle 2 e/ 51 y 53 2° Patio Planta Baja - Oficina 117,96,F,x
+115,Dirección Provincial de Defensa Civil,Director Provincial,D. Luciano TIMERMAN,0221 451-2002,Calle 53 Nº 1079,114,M,x
+116,Dirección Provincial de Formación y Capacitación,Director Provincial,D. Gastón OCHOA,0221 429-3040 Int. 73850,,114,M,x
+117,Programa Integral de Protección Ciudadana,Director General,D. Federico Nicolás TAIANO,0221 429-3166,Calle 2 e/ 51 y 53 Planta Baja - Oficina 117,114,M,x
+118,Oficina Provincial para la Gestión de la Seguridad Privada,Responsable,D. Alberto GRECO,,Calle 56 e/ 2 y 3,114,F,x
+119,Subsecretaría de Relaciones Institucionales,Subsecretario,D. Matías RANZINI,"0221 429-3208 Int. 73278, 74341",Calle 2 e/ 51 y 53,118,F,x
+120,Dirección Provincial de Relaciones con la Comunidad,Director Provincial,D. Hernán GOMEZ,0221 429-3385 Int. 73365,,118,M,x
+121,Agencia de Prevención de Violencia en el Deporte (A.Pre.Vi. De.),Secretario Ejecutivo,D. Juan Manuel LUGONES,0221 427-5075,Calle 3 N° 82,119,F,x
+122,Ministerio de Justicia,Ministro,Dr. Gustavo FERRARI,0221 429-5539/40,Torre II Calle 12 y 53 Piso 9,1,F,x
+123,Programa de Infraestructura Judicial y Penitenciaria,Director Ejecutivo,Sin nombramiento,0221 482-4387,Diag. 77 N° 679,122,M,
+124,Escribanía General de Gobierno,Escribana General,Esc. Marcos ROSPIDE,0221 421-2175,Calle 5 Nº 1469 e/ 62 y 63,122,F,x
+125,Escribanía General de Gobierno,Escribano Adscripto Superior,Esc. Gustavo Omar PONCE,0221 421-1458,,122,F,x
+126,Subsecretaría de Justicia,Subsecretario,Dr. Adrián Patricio GRASSI,0221 429-5544/16,Torre II Calle 12 y 53 Piso 9,122,F,x
+127,Dirección Provincial de Personas Jurídicas,Director Provincial,Dr. Leonardo JAKIM,0221 429-5408,Torre I Calle 12 e/ 50 y 51 Piso 15,126,M,x
+128,Dirección Provincial de Entidades Profesionales y Gestión Social Profesionalmente Responsable,Directora Provincial,Dra. Maria Ernestina SARUBO,0221 429-5704,Torre II Calle 12 y 53 Piso 7,126,F,x
+129,Dirección Provincial de Política Criminal y Relaciones con la Justicia,Directora Provincial,Vacante,0221 429-5500,,126,F,x
+130,Subsecretaría de Política Penitenciaria,Subsecretario,Vacante,0221 429-5551/5509,Torre II Calle 12 y 53 Piso 9,122,F,x
+131,Servicio Penitenciario,Jefe,a/c D. Juan José BARIC,0221 429-3830/3841,Calle 6 Nº 122 e/ 34 y 35,130,F,x
+132,Dirección General de Coordinación,Director General,Vacante,0221 429-3886 Int. 83829,,130,M,x
+133,Dirección General de Seguridad,Director General,Vacante,0221 429-3896 Int. 13829,,130,M,x
+134,Dirección General de Asistencia y Tratamiento,Director General,Vacante,0221 427-0272 Int. 13822,,130,M,x
+135,Dirección General de Recursos Humanos,Director General,Vacante,0221 429-3810 Int. 13816,,130,M,x
+136,Dirección General de Institutos de Formación y Capacitación,Director General,Vacante,0221 429-3821,,130,M,x
+137,Dirección Provincial de Salud Penitenciaria,Director Provincial,Dr. Jorge MASI,0221 426-2310,Calle 3 y 525,130,M,x
+138,Patronato de Liberados Bonaerenses,Presidente,C.P.N. Carlos BARBAGALLO,0221 457-8508,Calle 72 Nº 186 e/ 121 y 122,130,F,x
+139,Dirección Provincial de Ejecución Penal en Libertad,Directora Provincial,Dra. Ximena LORENZO,0221 457-8508 Int. 153,,130,F,x
+140,Dirección Provincial de Regiones,Director Provincial,Dr. Federico MELIA,0221 457-8508 Int. 138,,130,M,x
+141,Dirección Provincial Técnico Administrativo,Director Provincial,C.P.N. Hernán PAYERAS,0221 457-8508 Int. 137,,130,M,x
+142,Subsecretaría de Acceso a la Justicia,Subsecretario,Dr. Juan Ignacio PEREZ CURSI,0221 429-5581,Torre II Calle 12 y 53 Piso 9,122,F,x
+143,Dirección Provincial de Lucha Contra la Trata de Personas,Director Provincial,Da. Celeste PEROSINO,0221 426-2354,Calle 3 y 525,142,M,x
+144,Dirección Provincial de Métodos Alternativos de Resolución de Conflictos,Director Provincial,Dr. Hernán MARTINEZ SOLIS,0221 429-5669,Torre II Calle 12 y 53 Piso 9,142,M,x
+145,Dirección Provincial del Centro de Protección de los Derechos de la Víctima,Director Provincial,Lic. Silvina GILES,0221 489-8610,Diagonal 78 N° 107 e/ 2 y 55,142,M,x
+146,"Subsecretaría de Coordinación Legal, Técnica y Administrativa",Subsecretario,Dr. Gonzalo SANTILLAN ITURRES,0221 429-5703,Torre II Calle 12 y 53 Piso 8,122,F,x
+147,Dirección General de Administración,Director General,C.P.N. Juan Cruz PALLAVICCINI,0221 429-3844,Calle 6 N° 122,146,M,x
+148,Dirección Provincial de Apoyo Logístico,Director Provincial,Dr. Guido SAGRARIO,0221 429-5713,Torre II Calle 12 y 53 Piso 8,146,M,x
+149,"Dirección Provincial Legal, Técnica y de Recursos Humanos",Director Provincial,Dr. Juan Manuel ABRE,0221 429-5689,Calle 6 N° 122,146,M,x
+150,Subsecretaría de Control Penitenciario y Gestión Institucional,Subsecretario,D. Fernando MANZANARES,0221 423-5777,Torre II Calle 12 y 53 Piso 8,122,F,x
+151,Dirección de Ceremonial,Responsable,D. Cristian FLORES DEL RIO,0221 429-5793,Torre II Calle 12 y 53 Piso 8,150,F,x
+152,Dirección de Relaciones Institucionales,Responsable,D. Alejandro ALONSO,0221 429-5636,Torre II Calle 12 y 53 Piso 8,150,F,x
+153,"Ministerio de la Producción, Ciencia y Tecnología",Ministro,Dr. Joaquín DE LA TORRE,0221 429-1651/1630,Calle 51 N° 774 e/ 10 y 11,1,F,x
+154,Jefatura de Gabinete,Jefe de Gabinete,Ing. Agr. Alberto TORRES,0221 429-1683,,153,F,
+155,Dirección de Prensa y Comunicación,Directora,Lic. Paula ELUSTONDO,0221 429-1660,,153,F,
+156,Dirección de Ceremonial,Director,D. Luis MARADEO,0221 429-1634/42,,153,M,
+157,Dirección General de Administración,Director General,C.P.N. Hernán PEREZ,0221 429-1661/1690,,153,M,
+158,"Subsecretaría de Industria, Comercio y Minería",Subsecretario,Ing. Luis Alberto DIEZ,0221 429-5646/5723,Torre II Calle 12 y 53 Piso 12,153,F,
+159,Dirección Provincial de Comercio,Director Provincial,Lic. Guillermo FONTAN,0221 429-5563,Torre II Calle 12 y 53 Piso 12,158,M,
+160,Dirección Provincial de Desarrollo y Promoción Industrial,Director Provincial,a/c D. Juan Leonel DAGLIO,0221 429-5730/5622,Torre II Calle 12 y 53 Piso 12,158,M,
+161,Dirección Provincial de Minería,Director Provincial,D. Alberto SALMUNI,0221 425-8616,Calle 50 Nº 873,158,M,
+162,"Subsecretaría de la Pequeña, Mediana y Microempresa",Subsecretario,Dr. Sergio PEREZ ROZZI,0221 429-2055,Calle 6 Nº 661 e/ 45 y 46,153,F,
+163,"Dirección Provincial de la Pequeña, Mediana, Microempresa y Desarrollo Productivo Local",Directora Provincial,C.P.N. Noemí SALTARELLI,0221 483-2060,,162,F,
+164,Dirección Provincial de Análisis Productivo Regional y Empresas Recuperadas,Director Provincial,Lic. Facundo PISTOLA,0221 429-2054/2051,,162,M,
+165,Unidad de Enlace para el Desarrollo Productivo Sustentable,Responsable,Ing. Marta ZUBILLAGA,0221 429-2053,,162,F,
+166,Unidad de Coordinación de Programas,Responsable,Lic. Marisa DIAZ,0221 429-2055,,162,F,
+167,Subsecretaría de Ciencia y Tecnología,Subsecretario,Lic. Guillermo ANLLO,0221 421-5567,Calle 50 N° 786 e/ 10 y 11 Piso 1,153,F,
+168,Dirección Provincial de Planeamiento Estratégico del Sistema de Innovación,Director Provincial,Mg. Hernán BRAUDE,011 4326-3781,Avenida Corrientes 672 Piso 4,167,M,
+169,Dirección Provincial de Articulación con el Sistema de Ciencia y Tecnología,Director Provincial,Dr. Jorge CZAJKOWSKI,,,167,M,
+170,"Dirección Provincial de Promoción de la Competitividad, la Innovación y los Servicios",Director Provincial,Sin nombramiento,0221 429-5523,Torre II Calle 12 y 53 Piso 12,167,M,
+171,Subsecretaría de Actividades Portuarias,Subsecretario,Sin nombramiento,0221 460-0798/2410,Calle Gilberto Gaggino esq. Italia Piso 1,153,F,
+172,Dirección Provincial de Gestión Portuaria,Director Provincial,Sin nombramiento,0221 460-2410,Calle Gilberto Gaggino esq. Italia,171,M,
+173,Subsecretaría de Turismo,Subsecretario,Lic. Ignacio Enrique CROTTO,0221 429-4038,Avenida 53 Nº 510 entre 5 y 6,153,F,
+174,Dirección Provincial de Promoción Turística,Director Provincial,D. Tomás MEYER,0221 429-5555,,173,M,
+175,Dirección Provincial de Desarrollo de Calidad y Servicios de Turismo,Director Provincial,Mg. Nicolás RUSSO,0221 429-5553,,173,M,
+176,Dirección Provincial de Delegaciones Turísticas,Director Provincial,D. Nicolás CASAS,0223 495-5340/3955,Bvd. Marítimo 2280 Edificio Hotel Casino - Local 48,173,M,
+177,Subsecretaría de Acción Cooperativa,Subsecretario,D. Pablo NOGUES,0221 425-4575,,153,F,
+178,Dirección Provincial de Fortalecimiento,Director Provincial,D. Federico CASALI,,,177,M,
+179,Dirección Provincial de Capacitación y Promoción,Director Provincial,D. Diego MAGILASQUI,,,177,M,
+180,Dirección Provincial Territorial,Director Provincial,Sin nombramiento,,,177,M,
+181,Comisión de Investigaciones Científicas (CIC),Presidente,Ing. Armando DE GIUSTI,0221 423-0950,Calle 526 e/ 10 y 11,153,F,
+182,Comisión de Investigaciones Científicas (CIC),Secretario Administrativo,C.P.N. Diego TURKENICH,0221 421-7374 Int. 120,,153,F,
+183,"Dirección Provincial de Ciencia, Tecnología e Innovación",Director Provincial,Dr. Marcelo NAIOUF,0221 421-7374 Int. 128/139,,181,M,
+184,Unidad de Coordinación y Control de Gestión,Responsable,C.P.N. Gustavo SENDRA,0221 421-7374 Int. 254,,181,F,
+185,Dirección Provincial de Zonas Francas,Director Provincial,Sin nombramiento,,Hipólito Yrigoyen y Don Bosco,153,M,
+186,Ente de Administración de Astillero Río Santiago,Gerente General,Ing. Daniel ROMANO,0221 521-7750,Hipólito Yrigoyen y Don Bosco,153,F,
+187,Fondo de Garantías Buenos Aires (FO. GA. BA.),Presidente,D. Osvaldo RIAL,011 4327-3924,Corrientes 672 Piso 3,153,F,
+188,Ministerio de Agroindustria,Ministro,Ing. Agr. Leonardo J. SARQUIS,0221 429-5227/5368,Torre I Calle 12 e/ 50 y 51 Piso 7,1,F,x
+189,Jefatura de Gabiente,Jefe de Gabinete,D. Jorge SRODEK,0221 429-5306,,188,F,x
+190,Ceremonial,Jefe de Ceremonial,D. Héctor LUNGHITANO,0221 429-5328/29,,188,F,x
+191,Prensa,Jefe de Prensa,Da. Florencia BURGOS,0221 429-5218,,188,F,x
+192,Director General de Administración,Director General,D. Raúl MUÑIZ,0221 429-5332,,188,M,x
+193,"Subsecretaría de Agricultura, Ganadería y Pesca",Subsecretario,Ing. Agr. Miguel TEZANO PINTOS,0221 429-5234/5337,,188,F,x
+194,Dirección Provincial de Agricultura,Director Provincial,D. Eduardo SOTO,0221 429-5359,,193,M,x
+195,Dirección Provincial de la Carne,Director Provincial,Med. Vet. Hernán SILVA,0221 429-5350,,193,M,x
+196,Director Provincial de Pesca,Director Provincial,D. Francisco DI LEVA,0221 429-5336,,193,M,x
+197,Director Provincial de Lechería,Director Provincial,Lic. Juan José LINARI,0221 429-5336,,193,M,x
+198,Subsecretaría de Calidad Agroalimentaria y Uso Agropecuario de los Recursos Naturales,Subsecretario,D. Sergio ROBERT,0221 429-5207,,188,F,x
+199,Dirección Provincial de Bioeconomía y Desarrollo Rural,Directora Provincial,Ing. Carla DE SIMONE,0221 429-5341,,198,F,x
+200,Dirección Provincial de Fiscalización Agropecuaria Alimentaria y de los Recursos Naturales,Director Provincial,Ing. Agr. Luis María HERRERA,0221 429-5338/5236,,198,M,x
+201,Oficina de Transferencia de Tecnologia y Experimentación,Responsable,D. Nicolás BOSH,0221 429-5348/5440,,198,F,x
+202,Ministerio de Salud,Ministra,Dra. Zulma ORTIZ,0221 429-2733,Calle 51 Nº1120,1,F,x
+203,Jefatura de Gabinete,Jefe de Gabinete,D. Roberto CHUIT,0221 429-2842/43,,202,F,x
+204,CUCAIBA,Presidente,Jorge RAIMONDI,0221 427-6070 Int. 103,Calle 129 e/51 y 53 (Ex Hosp. Naval),202,F,x
+205,Instituto de Obra Médico Asistencial (I.O.M.A.),Presidente,Dr. Sergio CASSINOTTI,0221 423-3091/422-0104,Calle 46 Nº 886 e/12 y 13,202,F,x
+206,Subsecretaría de Atención de la Salud de la Personas,Subsecretaria,Da. Evelina CHAPMAN,0221 429-2720,,202,F,x
+207,Dirección Provincial de Programas Sanitarios,Directora Provincial,Dra. Adriana DURAN,,,206,F,x
+208,Dirección Provincial de Salud en el Ciclo de Vida,Directora Provincial,Dra. Flavia RAINERI,,,206,F,x
+209,Dirección Provincial de Hospitales,Director Provincial,Dr. Alberto LAZO,0221 429-2725,,206,M,x
+210,"Subsecretaría de Determinantes Sociales de la Salud y la Enfermedad Física, Mental y de las Adicciones",Subsecretaria,Lic. Patricia SEGOVIA,0221 427-0207,Calle 3 y 527,202,F,x
+211,Dirección Provincial de Salud Mental y Adicciones,Director Provincial,Dr. Pablo HERRERA,0221 422-7148,,210,M,x
+212,"Dirección Provincial de Salud Comunitaria, Entornos Saludables y No Violentos",Directora Provincial,Dra. María del Carmen STORANI,,,210,F,x
+213,Subsecretaría de Administración y Gestión de Recursos,Subsecretario,Vacante,0221 429-2900,,202,F,x
+214,Dirección Provincial Legal Administrativa y Contable,Directora Provincial,Da. Lorena GIORGI,0221 429-2904,,213,F,x
+215,Dirección Provincial de Infraestructuras y Tecnologías,Director Provincial,Dr. Fabián AUGUSTO,0221 429-2939,,213,M,x
+216,Subsecretaría de Gestión y Contralor del Conocimiento Redes y Tecnologías Sanitarias,Subsecretaria,Dra. Elsa ANDINA,0221 427-0796/1642,Calle 4 y 51 N° 962,202,F,x
+217,Dirección Provincial de Gestión del Conocimiento,Directora Provincial,Dra. Laura ANTONIETTI,0221 483-8858 Int. 206,,217,F,x
+218,Dirección Provincial de Epidemiología y de Información Sistematizada,Director Provincial,Dr. Iván INSUA,0221 483-8858,,217,M,x
+219,Dirección Provincial de Integración de Redes y Regiones Sanitarias,Director Provincial,Dr. Raúl PITARQUE,0221 483-8858 Int. 243,,217,M,x
+220,Dirección Provincial de Registro y Fiscalización Sanitaria,Director Provincial,Farm. Jorge MOLINA,0221 429-2840,,217,M,x
+221,Dirección Provincial Instituto Biológico “Dr. Tomás Perón”,Director Provincial,Dr. Ricardo GOMEZ,0221 483-2039,Avenida Antártida Argentina e/ 525 y 526,217,M,x
+222,Instituto de Hemoterapia,Responsable,D. Carlos BERNAO,0221 451-0490,Calle 15 y 66,202,F,x
+223,Ministerio de Infraestructura y Servicios Públicos,Ministro,Lic. Edgardo David CENZON,0221 429-5006/08,Calle 7 N° 1267 e/ 58 y 59,1,F,x
+224,Jefatura de Gabinete,Jefe de Gabinete,D. Juan Manuel GAYTAN,0221 429-5017/19,,223,F,x
+225,Unidad de Coordinación de Proyectos de Obra para el Programa de Mejora y Expansión de la Infraestructura de la Provincia de Buenos Aires (Credito Banco Mundial),Coordinadora,Ing. Alejandra ACOSTA,0221 429-4919,,223,M,x
+226,Dirección Provincial de Planificación y Control de Gestión,Directora Provincial,Da. Florencia VALIA,0221 429-4956,,223,F,x
+227,Subsecretaría Administrativa,Subsecretario,Dr. Mario Agustín GALLO,0221 429-4990/91/92,,223,F,x
+228,Subsecretaría de Servicios Públicos,Subsecretario,Ing. Pablo GAYTAN,0221 429-1805/1851,Calle 46 N° 561 Piso 9,223,F,x
+229,Autopistas de Buenos Aires S.A. (AUBASA),Presidente,D. Víctor EL KASSIR,011 3221-7801,Reconquista 575 Piso 5,228,F,x
+230,Dirección Provincial de Desarrollo de los Servicios Públicos,Director Provincial,Dr. Edgardo VOLOSIN,0221 429-1805,,228,M,x
+231,Dirección Provincial Control y Seguimiento de los Servicios Públicos,Director Provincial,D. Matías LANUSSE,0221 429-1805,,228,M,x
+232,Organismo de Control de Aguas de Buenos Aires (O.C.A.B.A.),Presidente,D. Lucas MALBRAN,0221 427-8162/3/4,Calle 5 N° 366 e/ 39 y 40 Piso 9,228,F,x
+233,Organo de Control Eléctrico de Buenos Aires (O.C.E.B.A),Presidente,Dr. Jorge Alberto ARCE,0221 425-9663/65 Int. 212/213/248,Calle 56 N° 535 e/5 y 6,228,F,x
+234,Aguas Bonaerenses S.A. ( A.B.S.A. ),Presidente,Ing. Raffaele SARDELLA,0221 410-3924,Calle 54 N° 358,228,F,x
+235,Buenos Aires Gas - BAGSA,Presidente,Ing. Jorge DOUMANIAN,0221 425-5488,Calle 9 N° 325 e/ 38 y 39,228,F,x
+236,Unidad Ejecutora del Programa Ferroviario Provincial,Administrador General,Lic. Fernando DOTTI,011 4305-5174,Avenida Hornos 11 Piso 1 - Oficina 101,228,M,x
+237,Centrales de la Costa Atlántica S.A. (Electricidad),Presidente,Ing. Thierry DECOUD,0221 429-1801/1803,Calle 46 N° 561 e/ 6 y 7 Piso 11,228,F,x
+238,Dirección Provincial de Coordinación de Políticas Regulatorias y Planificación,Director Provincial,Dr. Juan Pablo ROSSINI,0221 429-1805,,228,M,x
+239,"Subsecretaría Social de Tierras, Urbanismo y Vivienda",Subsecretario,Lic. Mauricio BUTERA,0221 427-2244 Int. 155,Diagonal 73 y 56 N° 1568,223,F,x
+240,Dirección Provincial de Acceso Justo al Hábitat,Director Provincial,Lic. Pablo LOSADA,0221 427-2266 Int. 111,,239,M,x
+241,Dirección Provincial de Obras y Proyectos para el Desarrollo Barrial,Directora Provincial,Dra. Gimena YERBA CESAR,,,239,F,no aparece en el organigrama
+242,Dirección Provincial de Tierras,Directora Provincial,Dra. María Florencia FRANCHINI,0221 427-2266 Int. 107,,239,F,x
+243,Dirección Provincial de Escrituración Social,Director Provincial,Dr. Mariano MARTINEZ,0221 427-2266 Int. 124,,239,M,x
+244,Instituto de la Vivienda,Administrador General,Lic. Evert VAN TOOREN,0221 429-4980/4082,Calle 7 Nº 1267,239,M,x
+245,Dirección Provincial de Infraestructura Urbana y Territorial,Director,Lic. Alejandro SPARACINO,0221 429-4905,Avenida 7 N° 1267 e/ 58 y 59 Piso 7,239,M,x
+246,Subsecretaría de Infraestructura Hidráulica,Subsecretario,Lic. Rodrigo Javier SILVOSA,0221 429-5033,,223,F,x
+247,Dirección Provincial de Obra Hidráulica,Director Provincial,Ing. Mario GSCHAIDER,0221 429-5091/93,,246,M,x
+248,Dirección Provincial de Mantenimiento,Director Provincial,Ing. José DI DOMENICO,,,246,M,x
+249,Dirección Provincial de Monitoreo Hidro-Ambiental,Director Provincial,D. Carlos BONALLI,,,246,M,x
+250,Dirección Provincial Fortalecimiento a Organizaciones Sociales para el Acceso a la Infraestructura Básica Social,Director Provincial,D. José SOLVEYRA,,,246,M,x
+251,Autoridad del Agua (A.D.A.),Presidente,Lic. Pablo RODRIGUE,0221 421-6167,Calle 5 N° 366 e/ 39 y 40 Piso 5,246,F,x
+252,Comité de Cuenca del Río Reconquista (COMIREC),Presidente Honorario,Lic. Mara ANSELMI,0221 429-4917,,246,F,x
+253,Subsecretaría de Transporte,Subsecretario,D. Lisandro PEROTTI,0221 429-5030,Avenida 7 e/ 58 y 59 Piso 7,223,F,x
+254,Dirección Provincial de Planificación del Tránsito y Transporte,Director Provincial,Ing. Tomás DAELS,0221 429-5036,,253,M,x
+255,Dirección Provincial de Fiscalización del Transporte,Director Provincial,D. Pablo PALLUA,0221 429-5030/5080,,253,M,x
+256,Dirección Provincial de Transporte Automotor,Director Provincial,D. Juan Alejandro EZCURRA,0221 429-5030/5080,,253,M,x
+257,Ente Regulador de la Verificación Técnica Vehicular,Presidente,Lic. Rodrigo AMADEO,0221 425-5962/9837,Calle 3 Nº 1630 e/ 65 y 66,253,F,x
+258,Ente Regulador del Servicio,Presidente,Sin nombramiento,,,253,F,
+259,Comisión Provincial de Automovilismo y Motociclismo Deportivo (CO.P.A.M.),Director Provincial,Sin nombramiento,0221 483-5784,,253,M,
+260,Subsecretaría de Infraestructura Básica,Subsecretario,Dr. Lisandro Agustín GRECO,0221 429-5051,,223,F,x
+261,Dirección Provincial de Vialidad,Administrador General,Ing. Mariano CAMPOS,0221 482-2665,Calle 122 y 48 N° 827,260,M,x
+262,Dirección Provincial Obras de Agua y Cloacas,Director Provincial,D. Luciano CASIRAGHI,0221 429-4907/08,,260,M,x
+263,Dirección Provincial de Arquitectura,Director Provincial,Joaquín GANDARA,0221 429-5049/50,,260,M,x
+264,Servicio Provincial de Agua y Saneamiento Rural (S.P.A.R.),Presidente,Dr. Ignacio GOMEZ,0221 423-1162,Calle 5 N° 366/72 e/ 39 y 40 Entrepiso,260,F,x
+265,Ministerio de Desarrollo Social,Ministro,D. Santiago LOPEZ MEDRANO,0221 429-5625,Calle 55 N° 570,1,F,x
+266,Jefatura de Gabinete,Jefe de Gabinete,D. Federico ARATA,0221 429-5592,,265,F,x
+267,Dirección Provincial de Emergencia Sociales,Director Provincial,D. Fernando BONES,,,265,M,x
+268,Dirección Provincial de Logística,Director Provincial,Sin nombramiento,,,265,M,x
+269,Dirección Provincial de Comunicación Institucional,Director Provincial,Dr. Eduardo BEVACQUA,,,265,M,x
+270,Dirección de Relaciones Institucionales,Director,Roberto CARMUEGA,0221 429-6845/6805,,265,M,x
+271,Organismo Provincial de la Niñez y Adolescencia,Directora Ejecutiva,Da. Pilar MOLINA,0221 429-3740/3742,Calle 116 Nº 1869 e/ 70 y 71 - Oficina 18,265,F,x
+272,Dirección Provincial de Planificación y Control de Gestión,Director Provincial,Dra. Marisa MARTIN,0221 429-3795/3782,,265,M,x
+273,Subsecretaría de Promoción y Protección de Derechos,Subsecretario,Sin nombramiento,0221 429-3709,Calle 116 Nº 1869 e/ 70 y 71,265,F,x
+274,Dirección Provincial de Programas y Promoción Comunitaria,Directora Provincial,Da. Gladys PESTILLO,0221 429-3736,,273,F,x
+275,Dirección Provincial de Promoción y Protección de Derechos,Director Provincial,D. Guillermo SIDOLI,0221 429-3793,,273,M,x
+276,Subsecretaría Técnico Administrativa,Subsecretario,Lic. Joaquín TOME,0221 429-5632,Torre II Calle 12 y 53 Piso 4,265,F,x
+277,Subsecretaría de Deportes,Subsecretario,Prof. Ramiro GIMENEZ,0221 414-0006,Calle 23 y 532 Estadio Ciudad de La Plata – Edificio “A”,265,F,x
+278,Dirección Provincial de Deporte Social y Clubes de Barrio,Director Provincial,Prof. Gabriel KUNZ,,,277,M,x
+279,Dirección Provincial de Deportes Federados,Director Provincial,D. Javier CASTRILLI,0221 414-0135,,277,M,x
+280,Unidad de Coordinación de los Juegos Deportivos Buenos Aires,Director Provincial,D. Pablo FUENTES,0221 414-0219,,277,M,x
+281,Subsecretaría de Políticas Sociales,Subsecretario,D. Ezequiel PAZOS,0221 429-6844,Calle 55 N° 570 Piso 3,265,F,x
+282,Dirección Provincial de Juventud,Director Provincial,D. Alberto CZERNIKOWSKI,,,281,M,x
+283,Dirección Provincial de Tercera Edad,Director Provincial,D. Ana María WASZCZUK,,,281,M,x
+284,Dirección Provincial de Discapacidad,Director Provincial,Lic. Romina GUEY,,,281,M,x
+285,Dirección Provincial de Fortalecimiento con Organizaciones de la Sociedad Civil,Director Provincial,Lic. Analía CORBALAN,,,281,M,x
+286,Programa de Responsabilidad Social Compartida “Envión”,Responsable,Dra. Viviana DEVOTO,0221 429-6880,Calle 55 N° 570 Piso 2,281,F,x
+287,Subsecretaría de Fortalecimiento Familiar y Comunitario,Subsecretario,D. Gabriel MERCURI,0221 429-6808/46,Calle 55 N° 570 Piso 3,265,F,x
+288,Dirección Provincial de Economía Social,Director Provincial,D. Ignacio GIRADO,,,287,M,x
+289,Dirección Provincial de Abordaje Territorial,Director Provincial,D. Maximiliano GOMEZ,,,287,M,x
+290,Dirección Provincial de Atención Inmediata,Director Provincial,D. Iván RABADE,,,287,M,x
+291,Dirección Provincial de Descentralización,Director Provincial,Dr. Esteban HERNANDO,,,287,M,x
+292,Unidad de Coordinación de Seguimiento y Control de Gestión,Coordinador Provincial,D. Alejandro Guillermo KECK,,,287,M,x
+293,Unidad Ejecutora Provincial del Programa de Mejoramiento de Barrios,Coordinador Provincial,D. Ernesto CORONADO,0221 429-6813,Calle 55 N° 570 Piso 9,287,M,x
+294,Subsecretaría de Responsabilidad Penal y Juvenil,Subsecretario,D. Felipe GRANILLO FERNANDEZ,0221 429-3750/55,,265,F,x
+295,Dirección Provincial de Medidas Alternativas,Director Provincial,Dra. María Cristina PEREZ ETCHEVES,,,294,M,x
+296,Dirección Provincial de Institutos Penales,Director Provincial,Dr. Carlos NOSENZO,,,294,M,x
+297,Ministerio de Trabajo,Ministro,Dr. Marcelo VILLEGAS,0221 429-3625/26,Avenida 7 N° 370 Piso 3,1,F,x
+298,Jefatura de Gabinete,Jefe de Gabinete,Sin nombramiento,,,297,F,x
+299,Dirección Provincial de Coordinación Comunicación y Control de Gestión Institucional,Director Provincial,D. Federico BELLEZZE,0221 429-3625/26,,297,M,x
+300,Dirección General de Administración,Director General,D. Rodrigo VIEIRO MAGAZ,0221 412-3203,Calle 115 Nº 1705 esq. 67,297,M,x
+301,Subsecretaría de Trabajo,Subsecretario,D. Mariano MUÑOZ,0221 429-3670,Avenida 7 Nº 370 e/ 39 y 40,297,F,x
+302,Dirección Provincial de Relaciones Laborales,Directora Provincial,Dra. Aixa PETRIATI GRIZZUTI,0221 429-3673/74,,301,F,x
+303,Dirección Provincial de Inspección,Director Provincial,D. Juan José VANATTI,0221 482-5604,Avenida 7 Nº 1121 e/520 y 521,301,M,x
+304,Dirección Provincial de Asuntos Legales,Directora Provincial,Dra. Verónica CARPANI,0221 429-3675,,301,F,x
+305,Dirección Provincial de Delegaciones Regionales,Director Provincial,Dr. Hernán PADULA,0221 429-3672,,301,M,x
+306,Comisión Provincial para la Prevención y Erradicación Progresiva del Trabajo Infantil,Coordinador,Lic. María Cecilia NOGUEIRA,0221 429-3665/81,,301,M,x
+307,Subsecretaría de Empleo,Subsecretario,D. Juan Pablo FERNANDEZ FUNES,0221 482-9621,Calle 46 N° 939 e/ 13 y 14,297,F,x
+308,Dirección Provincial de Promoción de Empleo,Director Provincial,D. Marcelo ROSENBLATT,0221 421-3927,,307,M,x
+309,Agencia Provincial de Empleo,Responsable,D. Marcelo STEIMBERG,,,307,F,x
+310,Subsecretaría de Negociación Colectiva del Sector Público,Subsecretario,Dr. Carlos DI PAOLO,0221 453-3310,Calle 56 Nº 1127 e/ 17 y 18,297,F,x
+311,Dirección Provincial de Relaciones Laborales del Sector Público,Directora Provincial,Dra. Mónica SOUZA,0221 453-3310,Calle 56 Nº 1127 e/ 17 y 18 Piso 1,310,F,x
+312,Dirección Provincial de Coordinación de la Negociación Colectiva,Director Provincial,Dr. Germán CAROL,0221 453-3310,Calle 56 Nº 1127 e/ 17 y 18 Piso 1,310,M,x
+313,Instituto de Previsión Social (I.P.S.),Presidente,Lic. Christian GRIBAUDO,0221 429-6511,Calle 47 Nº 530,297,F,x
+314,Dirección Provincial de Prestaciones y Recursos,Director Provincial,D. Marcelo INSAURRALDE,0221 429-6547,,313,M,x
+315,Dirección General de Administración,Directora General,C.P.N. Carmen SARRA,0221 429-6560,,313,F,x
+316,Dirección General de Cultura y Educación,Director General,Dr. Alejandro FINOCCHIARO,0221 429-7641/42,Avenida 13 e/ 56 y 57,1,M,x
+317,Jefatura de Gabinete,Jefe de Gabinete,Javier MEZZAMICO,0221 429-7693,,316,F,x
+318,Coordinación de Ceremonial,Coordinador,D. Marcelo BAYSSE,0221 429-7609/88,,316,M,x
+319,Dirección Provincial de Comunicación,Director Provincial,Lic. Alejandro PERANDONES,0221 429-7692/7761,,316,M,x
+320,Dirección Provincial de Tecnología de la Información,Director Provincial,Lic. Gustavo GOENAGA,0221 429-7710,Calle 13 e/ 56 y 57 Planta Baja,316,M,x
+321,Dirección Provincial de Legal y Técnica,Director Provincial,Dr. Sergio FELIX,0221 429-7608,Calle 13 e/ 56 y 57 Piso 1 - Oficina 9,316,M,x
+322,Consejo General de Cultura y Educación,VicePresidente 1º,Dr. Claudio Marcelo CRISSIO,0221 429-7668/7760,,316,F,x
+323,Consejo General de Cultura y Educación,VicePresidenta 2º,Prof. Jorgelina FITTIPALDI,0221 429-7729,,322,F,x
+324,Consejo General de Cultura y Educación,Consejero Miembro,Prof. Néstor JANO,0221 429-7673,,322,M,x
+325,Consejo General de Cultura y Educación,Consejero Miembro,Dr. Daniel FILLOY,0221 429-7680,,322,M,x
+326,Consejo General de Cultura y Educación,Consejero Miembro,Prof. Néstor CARASA,0221 429-7676,,322,M,x
+327,Consejo General de Cultura y Educación,Consejero Miembro,Prof. Graciela SALVADOR,0221 429-7671,,322,M,x
+328,Consejo General de Cultura y Educación,Consejero Miembro,Lic. Manuel URRUTI,0221 429-7681,,322,M,x
+329,Consejo General de Cultura y Educación,Consejero Miembro,Prof. Graciela VENECIANO,0221 429-7682,,322,M,x
+330,Consejo General de Cultura y Educación,Consejero Miembro,Lic. Marcelo ZARLENGA,0221 429-7620,,322,M,x
+331,Secretaría Administrativa del Consejo General,Secretario,D. José Luis LARA,0221 429-7619,,322,F,x
+332,Subsecretaría de Educación,Subsecretario,Lic. Sergio SICILIANO,0221 429-7660/61,Calle 13 e/ 56 y 57 Planta Baja,316,F,x
+333,Dirección Provincial de Educación Inicial,Directora Provincial,Prof. Guillermina MARTI,0221 429-5296/9512,Torre I Calle 12 e/ 50 y 51 Piso 11,332,F,x
+334,Dirección Provincial de Educación Primaria,Directora Provincial,Prof. Araceli Mónica DILLON,0221 429-5290/91,Torre I Calle 12 e/ 50 y 51 Piso 11,332,F,x
+335,Dirección Provincial de Educación Secundaria,Directora Provincial,Lic. Carla CECCHI,0221 429-5279,Torre I Calle 12 e/ 50 y 51 Piso 12,332,F,x
+336,Dirección Provincial de Educación Superior,Director Provincial,Prof. Leandro GOROYESKI,0221 429-5313,Torre I Calle 12 e/ 50 y 51 Piso 9,332,M,x
+337,Dirección Provincial de Educación Técnico Profesional,Director Provincial,Prof. Gerardo MARCHESINI,0221 423-3553/5092,Calle 13 Nº 868 e/ 49 y 50 Piso 6,332,M,x
+338,Dirección Provincial de Planeamiento,Directora Provincial,Lic. Laura Alicia MANOLAKIS,0221 422-5093,Calle 43 N° 525 e/ 5 y 6,332,F,x
+339,Subsecretaría Administrativa,Subsecretaria,C.P.N. María José GARCIA SANTILLAN,0221 429-7647/48,Calle 13 e/ 56 y 57 Planta Baja,316,F,x
+340,Dirección General de Administración,Director General,D. Miguel Angel SOLA,0221 429-7699/7700,Calle 13 e/ 56 y 57 Piso 1 - Oficina 6,339,M,x
+341,Dirección Provincial de Infraestructura Escolar,Director Provincial,D. Marco Antonio BARRA,0221 482-1771,Calle 63 Nº 435 e/ 3 y 4,339,M,x
+342,Dirección Provincial de Servicios Generales,Director Provincial,D. Lucas DI MARCO,0221 429-7718,Calle 13 e/ 56 y 75 Subsuelo,339,M,x
+343,Dirección Provincial de Gestión de Recursos Humanos,Directora Provincial,Lic. Carla ROBIANI,0221 427-5833,Avenida 60 N° 781 e/ 10 y 11,339,F,x
+344,Dirección Provincial de Calidad Laboral,Director Provincial,Lic. Mauro CONESA,0221 422-3823,Avenida 60 N° 781 e/ 10 y 11,339,M,x
+345,Subsecretaría de Políticas Docentes y Gestión Territorial,Subsecretario,Lic. Manuel VIDAL,0221 429-7668/69,,330,F,x
+346,Dirección Provincial de Consejos Escolares,Director Provincial,D. Hernán BERISSO,0221 429-5266,Torre I Calle 12 e/ 50 y 51 Piso 14,345,M,x
+347,Dirección Provincial de Política Socio-Educativa,Directora Provincial,Lic. María Aurelia FURNARI,0221 429-5405,Torre I Calle 12 e/ 50 y 51 Piso 14,345,F,x
+348,Dirección Provincial de Negociaciones Colectivas,Director Provincial,D. Miguel GAROFALO,0221 482-8202/1733,Calle 11 N° 1167 e/ 56 y 57,345,M,x
+349,Auditoría General,Auditor,C.P.N. Abelardo HARBIN,0221 423-4291/425-4165,Calle 49 N° 521/25 e/ 6 y Diagonal 80,330,M,x
+350,Dirección Provincial de Asuntos Jurídicos,Director Provincial,Sin nombramiento,0221 483-6831,Calle 49 N° 521/25 e/ 6 y Diagonal 80,349,M,
+351,Dirección Provincial de Auditoría Interna,Director Provincial,C.P.N. Martín CAIRO,0221 483-6831,Calle 49 N° 521/25 e/ 6 y Diagonal 80,349,M,x
+352,Dirección Provincial de Auditoría de Organismos Descentralizados,Director Provincial,C.P.N. Alejandro MARTINEZ,0221 483-6831,Calle 49 N° 521/25 e/ 6 y Diagonal 80,349,M,x
+353,Consejo Provincial de Educación y Trabajo ( COPRET ),Secretario Ejecutivo,Dr. Jorge Ludovico GRILLO,0221 482-5346,Calle 13 Nº 868 e/ 49 y 50 Piso 7 y 8,330,F,x
+354,Unidad Ejecutora Provincial de Programas con Financiamiento Externo (UEP),Director Provincial,Dr. Germán Tomás LOVRENCIC,0221 489-5023,Calle 8 Nº 713 e/ 46 y 47 Piso 6 (ex edificio del ANSES),330,M,x
+355,Secretaría General de la Gobernación,Secretario General,Dr. Fabián PERECHODNIK,0221 429-4323/4050,Calle 6 e/ 51 y 53,1,F,x
+356,Dirección Provincial de Ceremonial y Audiencias,Director Provincial,a/c D. Pablo MISURACA,0221 429-4225,,355,M,x
+357,Subsecretaría General,Subsecretario,Mario ETCHEVARREN,0221 429-4050/4323,,355,F,x
+358,Dirección Provincial de Culto,Director Provincial,Lic. Walter JIMENEZ,0221 483-9378,Calle 53 N° 470 e/ 4 y 5 Piso 1,357,M,x
+359,Dirección Provincial de Responsabilidad Social,Director Provincial,Sin nombramiento,,,357,M,x
+360,Dirección Provincial de Relaciones con la Comunidad,Director Provincial,Sin nombramiento,,,357,M,x
+361,Subsecretaría de Gestión y Logistica,Subsecretario,D. Pedro DE LAS BARRERAS,0221 429-4049,,355,F,x
+362,Dirección Provincial de Aeronavegación Oficial y Planificación Aeroportuaria,Director Provincial,Sin nombramiento,0221 486-2177/0528,Calle 7 y 610,361,M,x
+363,Dirección Provincial de Bienes y Servicios,Director Provincial,D. Gabriel SUAREZ,0221 423-0303/0221,Calle 53 N° 510 e/ 5 y 6,361,M,x
+364,Dirección Provincial de Automotores y Embarcaciones Oficiales –DAEO-,Director Provincial,D. Maximiliano HEREDIA,0221 425-6788,Calle 3 y 523,361,M,x
+365,Subsecretaría de Relaciones Internacionales y Cooperación,Subsecretario,D. Hernán DE ALOYSIO,0221 429-4050/4323,,355,F,x
+366,Dirección Provincial de Relaciones Internacionales,Director Provincial,Sin nombramiento,,,365,M,
+367,Dirección Provincial de Cooperación Internacional,Director Provincial,Lic. Luis Enrique ORLANDI,,,365,M,x
+368,Dirección Provincial de Promoción de Exportaciones,Director Provincial,Lic. María Beatríz GUERRA ORDOÑEZ,,,365,M,x
+369,Subsecretaría de Coordinación Administrativa Gubernamental,Subsecretario,Dr. Alejandro BOTTINI,0221 429-4086,Avenida 7 y 50,355,F,x
+370,Dirección General de Administración,Director General,Sin nombramiento,0221 429-1903/1951,,369,M,x
+371,Dirección Provincial de Contrataciones,Director Provincial,Sin nombramiento,0221 429-1935/2028,,369,M,x
+372,Dirección General de Servicios Técnicos-Jurídicos,Director Provincial,Sin nombramiento,0221 429-2031/19,Calle 7 y 50,369,M,x
+373,Secretaría de Derechos Humanos,Secretario,Dr. Santiago CANTON,0221 427-0022,Calle 53 Nº 653 esq. 8,1,F,x
+374,Jefatura de Gabinete,Jefe de Gabinete,Dr. Fernando GOLDAR,0221 489-3960/64 Int. 108,,373,F,x
+375,Subsecretaría de Promoción de Derechos Humanos,Subsecretario,Dr. Federico DI BERNARDI,0221 489-3960/65 Int.103/126,,373,F,x
+376,Dirección Provincial de Protección de los Derechos Humanos,Director Provincial,Dra. Daniela SMET,0221 489-3965/6/7 Int. 115,Calle 49 Nº 481 e/ 4 y 5,375,M,x
+377,Dirección Provincial de Promoción de los Derechos Humanos,Director Provincial,Sin nombramiento,0221 489-3965/6/7 Int. 112,Calle 49 N° 481 e/ 4 y 5,375,M,x
+378,Dirección Provincial de Políticas Reparatorias,Director Provincial,Sin nombramiento,0221 489-3965/6/7 Int. 108/110,Calle 49 Nº 481 e/ 4 y 5,375,M,
+379,Subsecretaría de Análisis Estadístico y Documental en Derechos Humanos,Subsecretario,Sin nombramiento,0221 429-3960/65,Calle 53 Nº 653 esq. 8,373,F,
+380,Director Provincial de Archivo y Análisis Estadístico,Director Provincial,Sin nombramiento,,,379,M,
+381,Director Provincial de Observatorio de Derechos Humanos,Director Provincial,Sin nombramiento,,,379,M,
+382,Subsecretaría de Protección de Derechos Humanos,Subsecretario,Dr. Sebastián PEREIRO,0221 429-3960/65,Calle 53 Nº 653 esq. 8,373,F,x
+383,Consejo Provincial de las Mujeres,Presidenta,Da. Daniela REICH,0221 429-4037,Calle 6 Nº 950 esq. 51,382,F,x
+384,Secretaría Legal y Técnica,Secretario,Dr. Julio CONTE-GRAND,0221 429-4052/4013,Calle 6 e/ 51 y 53,1,F,x
+385,Jefatura de Gabinete,Jefe de Gabinete,D. Javier BERNASCONI,,,384,F,x
+386,Subsecretaría Legal y Técnica,Subsecretario,D. Guillermo Carlos A. ANDERLIC,0221 429-4158,,384,F,x
+387,Dirección Provincial de Asuntos Administrativos,Directora Provincial,Da. Liza Victoria CAFASSO,0221 429-4332,Calle 6 e/ 51 y 53 Piso 1,386,F,x
+388,Dirección Provincial de Asuntos de Personal,Directora Provincial,Da. Mercedes TONELLI,0221 429-4232,Calle 6 e/ 51 y 53 Piso 1,386,F,x
+389,Subsecretaría de Desarrollo Institucional,Subsecretaria,Dra. Ana Margarita HERNANDEZ,0221 429-5535,Torre II Calle 12 y 53 Piso 7 y 9,384,F,x
+390,Dirección Provincial de Coordinación Institucional y Gestión de Proyectos,Directora Provincial,Dra. Débora Luciana TOSCANI,0221 429-5535,Torre II Calle 12 y 53 Piso 7,389,F,x
+391,Dirección Provincial de Asustos Legislativos,Directora Provincial,Dra. Joela BORGHI,0221 429-5621,Calle 7 y 50 Entrepiso,389,F,x
+392,Secretaría de Comunicación,Secretario,Lic. Federico SUAREZ,0221 429-4109/4299,Calle 6 e/ 51 y 53,1,F,x
+393,Subsecretaría de Contenidos,Subsecretaria,Lic. Maria Laura FRAGUEIRO,0221 429-4109,,392,F,x
+394,Dirección Provincial de Comunicación Estratégica,Director Provincial,D. Mariano CRISTOFORETTI,0221 429-4109 Int. 84103,,393,M,x
+395,Dirección Provincial de Comunicación Municipal,Director Provincial,D. José Antonio ALBERTI,0221 429-4109 Int. 84151,,393,M,x
+396,Dirección Provincial de Contenidos,Director Provincial,D. Juan Martín MENDEZ,0221 429-4109 Int. 84103,,393,M,x
+397,Subsecretaría de Planificación Comunicacional,Subsecretario,Lic. Francisco DIAZ VEGA,0221 429-4109 Int. 84156,,392,F,x
+398,Dirección Provincial de Vínculo Ciudano,Director Provincial,D. Esteban BIANCHI,0221 429-4109 Int. 84156,,397,M,x
+399,Dirección Provincial de Comunicación Masiva,Directora Provincial,Da. Fiorella RIMOLDI,0221 429-4109 Int. 84156,,397,F,x
+400,Secretaría de Medios,Secretario,D. Mariano MOHADEB,0221 429-4056,Calle 6 e/ 51 Y 53,1,F,x
+401,Jefatura de Gabinete,Jefa de Gabinete,Da. Sofía PERECHODNIK,,,400,F,x
+402,Subsecretaría de Coordinación de Medios,Subsecretario,D. Gerardo AREAL,0221 429-4317,,400,F,x
+403,Dirección Provincial de Comunicación Interna,Director Provincial,D. Ignacio GERINO,0221 429-4293,,402,M,x
+404,Dirección Provincial de Logística,Director Provincial,D. Gastón LIÑEIRA,0221 429-4066,,402,M,x
+405,Dirección Provincial de Comunicación Externa,Director Provincial,D.Patricio LESSA,0221 429-4228,,402,M,x
+406,Dirección Provincial de Radio Provincia,Director Provincial,D. Franco BAGNATO,0221 424-9793/94 Int. 124,Calle 11 Nº 810 esq. 53,402,M,x
+407,Secretaría de Cultura,Secretario,Lic. Alejandro Damián GOMEZ,0221 483-3305,Calle 5 Nº 755,1,F,
+408,Jefatura de Gabinete,Jefa de Gabinete,Da. Daniela SINDAS,,,407,F,
+409,Dirección Provincial de Coordinación de Enlace Administrativo,Director Provincial,D. Francisco BARATTA,0221 489-7051,,407,M,
+410,Subsecretaría de Gestión Cultural,Subsecretaria,Da. Rocío IRALA,0221 423-6885,,407,F,
+411,Dirección Provincial de Festivales y Eventos Centrales,Directora Provincial,Da. Agustina MORALES,0221 423-6885,,410,F,
+412,Dirección Provincial de Relaciones Institucionales,Directora Provincial,Da. Florencia ZALLIO,0221 423-6885,,410,F,
+413,Dirección Provincial Teatro Argentino,Director Provincial,D. Martín BAUER,0221 423-6885,Calle 53 e/ 9 y 10 – Teatro Argentino,410,M,
+414,Subsecretaría de Políticas Culturales,Subsecretaria,Da. Alejandra RAMIREZ,0221 423-6885,,407,F,
+415,Dirección Provincial de Museos y Preservación Patrimonial,Director Provincial,D. Ricardo GOTTIG,0221 423-6885,,414,M,
+416,Dirección Provincial de Programación Cultural,Directora Provincial,Da. Cecilia KUSKA,0221 423-6885,,414,F,
+417,Asesoría General de Gobierno,Asesor General,Dr. Gustavo FERRARI,0221 429-8220,Calle 9 Nº1177,1,M,x
+418,Asesoría Ejecutivo de Gobierno,Asesor Ejecutivo,Dr. Oscar Carlos VARAS,0221 429-8226,,417,M,x
+419,Coordinación General de Gestión,Coordinador General,Dr. Xavier ARESES,0221 429-8225/8220,,417,M,x
+420,Dirección General de Administración,Director General,D. Carlos Matías QUIERO SILVA,0221 429-8302,,417,M,x
+421,Subsecretaría de Asuntos Jurídicos y Planificación,Subsecretario,Dr. Felipe GONZALEZ BARLATAY,0221 429-8300 Int. 6046,,417,F,x
+422,Dirección General de Asuntos Jurídicos y Contenciosos,Director General,Dr. Ariel BAYON,0221 429-8200,,421,M,x
+423,Dirección General de Planificación y Gestión de Calidad,Director General,Lic. Mauro Emanuel SOLANO,0221 429-8300 Int. 6017,,421,M,x
+424,Subsecretaría de Relaciones Institucionales y Académicas,Subsecretario,Sin nombramiento,0221 429-8207,,417,F,x
+425,Dirección Provincial de Asuntos Institucionales,Director Provincial,Sin nombramiento,0221 429-8207,,424,M,x
+426,"Dirección General de Biblioteca, Jurisprudencia y Legislación",Director General,Sin nombramiento,0221 429-8200 Int. 6049/14,,424,M,x
+427,Contaduría General de la Provincia,Contador General,C.P.N. Gastón Ignacio MESSINEO,0221 429-4467,Calle 46 e/7 y 8 Piso 1,1,M,x
+428,Contaduría General de la Provincia,Subcontador General,D. Carlos Alfredo VITTOR,0221 429-4600,,427,F,x
+429,Dirección General de Administración,Director General,C.P.N. Juan Miguel TENAGLIA,0221 429-4623,,427,M,x
+430,Dirección General de Contrataciones,Directora General,Da. Débora Silvana ACUÑA,0221 429-4745,,427,F,x
+431,Dirección General del Centro de Sistemas e Informática,Director General,Ing. Alberto GONZALES SABOR,0221 429-4618,,427,M,x
+432,Secretaría de Contabilidad y Control de Gestión,Secretario,C.P.N. Gustavo BRITO,0221 429-4700,,427,F,x
+433,Dirección General de Control Contable,Director General,C.P.N. Daniel PINTO,0221 429-4405,,427,M,x
+434,Dirección General de Contabilidad e Información,Directora General,C.P.N. Alejandra SANCHEZ,0221 429-4468,,427,F,x
+435,Dirección General de Autorizaciones de Pagos,Directora General,C.P.N. Cecilia CALDERON,0221 429-4434,,427,F,x
+436,Dirección General de Auditoría,Director General,C.P.N. Jorge PEROTTI,0221 429-4710,,427,M,x
+437,Secretaría Legal y Técnica,Secretario,Dr. Guillermo COMADIRA,0221 429-4469,,427,F,x
+438,Dirección General de Dictámenes,Director General,Sin nombramiento,0221 429-4716,,427,M,x
+439,Dirección General de Procedimientos Especiales,Director General,Sin nombramiento,0221 429-4716,,427,M,x
+440,Tesorería General de la Provincia,Tesorero General,Lic. Horacio Salvador STAVALE,0221 429-4602,Calle 46 e/ 7 y 8,1,F,x
+441,Tesorería General de la Provincia,Subtesorero General,Lic. Facundo José FERNANDEZ,0221 429-4602/4606,,440,F,x
+442,Secretaría General,Secretario General,Lic. Edgardo Raúl CONTI,0221 429-4602/4606,,440,F,x
+443,Dirección de Relaciones Institucionales y Capacitación,Directora,Lic. Guillermina CORDONNIER,0221 429-4419,,442,F,x
+444,Dirección de Ceremonial y Protocolo,Jefe,Lic. Carlos Daniel SANTORO,0221 429-4797,,442,F,x
+445,Dirección General de Administración,Director General,C.P.N. Juan Carlos TARANTO,0221 429-4433,,442,M,x
+446,Dirección General de Contabilidad y Análisis,Director General,C.P.N. Sergio Gustavo FAVA,0221 429-4609,,442,M,x
+447,Dirección General de Planificación Financiera,Director General,C.P.N. Ricardo Roberto TROBO,0221 429-4433,,442,M,x
+448,Dirección General de Proyectos y Gestión,Directora Provincial,Sin nombramiento,0221 429-4605/4714,,442,F,x
+449,Dirección General Técnico- Ejecutiva,Director General,D. Alejandro Javier ZUFRIATEGUI,0221 429-4498,,442,M,x
+450,Honorable Tribunal de Cuentas,Presidente,Dr. Eduardo Benjamín GRINBERG,0221 429-5600,Torre II Calle 12 y 53 Piso 1 al 3,1,F,x
+451,Secretaría de Actuaciones y Procedimientos,Secretaria,C.P.N. Silvina NOVELLO,0221 429-5597,,450,F,
+452,Secretaría de Auditoría Financiera y Proyectos de Inversión,Secretario,C.P.N. Juan Carlos PETRASSO,,,450,F,
+453,Secretaría de Consultas y Dictámenes,Secretaria,C.P.N. María Elisa NAPOLITANO,,,450,F,
+454,Secretaría de Administración y Recursos Humanos,Secretario Ejecutivo,C.P.N. Agustín MINO,0221 429-5601,,450,F,
+455,Secretaría de Relaciones Institucionales y Profesionales,Secretario,C.P.N. Miguel SANTANDER,,,450,F,
+456,Secretaría de Modernización y Fotalecimiento Institucional,Secretaria,C.P.N. María del Carmen SABUGAL,,,450,F,
+457,Fiscalía de Estado,Fiscal de Estado,Dr. Hernán Rodolfo GOMEZ,0221 429-6310/11/12,Calle 1 y 60 Piso 1,1,F,x
+458,Fiscalía de Estado,Fiscal de Estado Adjunto,Dr. Guillermo SPACAPAN,0221 429-6339,,457,F,x
+459,Fiscalía de Estado,Fiscal de Estado Adjunto,Dr. Mariano CERVELLINI,0221 429-6296,,457,F,x
+460,Subsecretaría Administrativa,Subsecretario,Dr. Enrique Vicente GARCIA URCOLA,0221 429-6320,,457,F,x
+461,Subsecretaría en Materia Previsional y Derechos Humanos,Subsecretario,Dr. Miguel Angel VUOTTO,0221 429-6323,,457,F,x
+462,Subsecretaría de Ejecución de Créditos Fiscales y Tributarios,Subsecretario,Dr. Miguel Oscar BERRI,0221 429-6350/1,,457,F,x
+463,Subsecretaría de Inmuebles y Asuntos Regionales,Subsecretario,Dr. Luciano MARTINI,0221 421-6398/6395,,457,F,
+464,Subsecretaría de Interior,Subsecretario,Dr. Ariel Rodrigo IBAÑEZ,0221 429-6330,,457,F,x
+465,Subsecretaría en lo Contencioso y Administrativo,Subsecretario,Dr. Juan Ignacio SEARA,0221 429-6308,,457,F,x
+466,Subsecretaría Judicial La Plata,Subsecretario,Dr. Roberto PUENTES BARRIENTOS,0221 429-6289,,457,F,x
+467,Subsecretaría Judicial La Plata II,Subsecretario,Dr. José Luis COMPARATO,0221 429-6348,,457,F,x
+468,Subsecretaría de Relaciones Institucionales y Planificaión Estratégica,Subsecretaria,Dra. María Agostina CACAULT,0221 421-6397/428-6396,,457,F,x
+469,Dirección General de Administración,Director General,D. Martín SZELAGOWSKI,0221 429-6313/6399,,457,M,x
+470,Dirección General de Gestión Técnica,Director General,Dr. Fabián ROVELLA,0221 428-6340,,457,M,x
+471,Honorable Junta Electoral,Presidente,Dr. Daniel Fernando SORIA,0221 421-2102,Calle 13 N° 34 e/ 32 y 33,1,F,
+472,Dirección General de Administración,Director General,D. Diego Adolfo NOBILE,0221 422-4214/7318,,471,M,
+473,Secretaría de Actuación,Secretario,Dr. Guillermo Osvaldo ARISTIA,0221 421-2102,"8 e/ 51 y 53 Piso 1 (Palacio Legislativo, H. C. Senadores )",471,F,
+474,Dirección General Electoral,Director General,D. Daniel DEMARIA MASSEY,0221 489-5316,,471,M,
+475,Defensoría del Pueblo,Defensor del Pueblo,a/c Dr. Enrique Marcelo HONORES,0221 439-4042/43Int. 143/142,Calle 7 Nº 840 e/ 48 y 49,1,M,x
+476,Secretaría General,Secretario,Dr. Enrique Marcelo HONORES,0221 439-4042/43Int. 129,,475,F,x
+477,Secretaría de Atención y Orientación al Ciudadano,Secretaria,Dra. Silvia PELLEGRINO,0221 439-4042/43Int. 172,,475,F,x
+478,Secretaría de Derechos y Garantías,Secretario,Dr. Gabriel TUBIO,0221 439-4042/43Int. 148,,475,F,x
+479,Secretaría de Atención y Prevención Contra la Violencia Institucional,Secretario,Dr. Guillermo Jorge GENTILE,0221 439-4042/43Int. 166,,475,F,x
+480,Secretaría de Promoción Ciudadana,Secretario,Dr. Gustavo FERRARI,0221 439-4042/43Int. 137,,475,F,x
+481,Secretaría de Coordinación Operativa,Secretario,D. Ignacio JAUREGUIBERRY,0221 439-4042/43Int. 124,,475,F,x
+482,Secretaría de Coordinación Jurídica y Técnica,Secretario,Dr. Fernando Raúl PANTÍN COLOMBO,0221 439-4042/43Int. 134,,475,F,x
+483,Secretaría de Gestión Territorial,Secretaria,Da. Amalia GOICOCHEA,0221 439-4042/43Int. 136,,475,F,x
