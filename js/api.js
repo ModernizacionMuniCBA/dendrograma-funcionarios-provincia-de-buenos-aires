@@ -1,4 +1,4 @@
-var funcionariosUrl = "funcionarios.json";
+var funcionariosUrl = "https://modernizacionmunicba.github.io/dendrograma-funcionarios-provincia-de-buenos-aires/dendrograma/funcionarios.json";
 
 var funcionariosTask = new Promise(function (resolve, reject) {
     if (localStorage.funcionariosDataPBA == null || localStorage.funcionariosDataPBA == "null" || localStorage.funcionariosDataPBA == "undefined") {
