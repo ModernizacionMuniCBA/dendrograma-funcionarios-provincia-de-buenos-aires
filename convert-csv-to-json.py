@@ -27,7 +27,7 @@ with open(csv_origen) as csvfile:
 		func["funcionario"]["genero"] = row["genero"]
 		func["funcionario"]["edad"] = 0
 		func["funcionario"]["url"] = ""
-		func["funcionario"]["foto"] = {"original": "https://goo.gl/7k97nP", "thumbnail_32x32": "https://goo.gl/7k97nP", "thumbnail":"https://goo.gl/7k97nP"}
+		func["funcionario"]["foto"] = {"original": "http://www.mp.gba.gov.ar/assets/img_identidad/logo_gba.png", "thumbnail_32x32": "http://www.mp.gba.gov.ar/assets/img_identidad/logo_gba.png", "thumbnail":"http://www.mp.gba.gov.ar/assets/img_identidad/logo_gba.png"}
 		func["funcionario"]["uniqueid"] = ""
 		func["cargo"] = {}
 		func["cargo"]["id"] = row["id"]
