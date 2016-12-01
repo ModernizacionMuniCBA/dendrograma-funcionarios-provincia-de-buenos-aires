@@ -1,4 +1,4 @@
-id,area,Cargo,Nombre,Telefono,Domicilio,depende_de,genero,cheuqeado con nómina 2016
+id,Cargo,Rango,Nombre,Telefono,Domicilio,depende_de,genero,cheuqeado con nómina 2016
 1,Gobernación,Gobernadora,Lic. María Eugenia VIDAL,0221 429-4006,Calle 6 e/ 51 y 53,0,F,x
 2,Coordinación General de la Unidad Gobernadora,Coordinadora General,Da. María Soledad BORSANI,0221 429-4006,Calle 6 e/ 51 y 53,1,M,x
 3,Vicegobernación,Vicegobernador,Dr. Daniel Marcelo SALVADOR,0221 429-1258,Calle 6 e/ 51 y 53,1,F,x
